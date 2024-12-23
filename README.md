@@ -11,17 +11,6 @@ I'm a fullstack software engineer who loves end-to-end solutions to solve comple
 - 📢Fun fact: I can speak 4 languages fluently and understand 3 others.
 - 📚 Currently Reading: Sapiens by Yuval Noah Hariri.
 
-
-## Skills
-
-- **Languages:** Java, C#, Typescript, Javascript
-- **Frameworks:** Spring Boot, .NET Core, Angular
-- **Databases:** MySQL, SQL Server, MongoDB
-- **Message Queue:** Kafka
-- **DevOps:** Docker, Kubernetes, Jenkins, TeamCity, GitHub Actions, GitLab CI, Jenkins, TeamCity
-- **Cloud:** Google Kubernetes Engine (GKE), Google Cloud SQL
-- **Observability:** ELK Stack, Grafana, Prometheus
-
 <!--
 **phaniallamsetty/phaniallamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
