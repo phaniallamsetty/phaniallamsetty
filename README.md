@@ -10,6 +10,7 @@ I'm a fullstack software engineer who loves end-to-end solutions to solve comple
 - 📱Talk to me about software engineering, good books, and Formula 1.
 - 📢Fun fact: I can speak 4 languages fluently and understand 3 others.
 - 📚 Currently Reading: Sapiens by Yuval Noah Hariri.
+- 🚧 Currently Working on: [Rate Limiter Algorithms](https://github.com/phaniallamsetty/rate-limiter-lld) and [Coding Patterns](https://github.com/phaniallamsetty/coding-patterns-practice)
 
 <!--
 **phaniallamsetty/phaniallamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
